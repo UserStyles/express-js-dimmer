@@ -1,0 +1,17 @@
+@-moz-document domain("expressjs.com") {
+  * {
+    text-shadow: none !important;
+  }
+  body {
+    background: #aaa !important;
+  }
+  a {
+    color: #07a !important;
+  }
+  a:visited {
+    color: #080 !important;
+  }
+  code, pre {
+    background: #d8d8d8 !important;
+  }
+}
